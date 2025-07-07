@@ -1,2 +1,2 @@
 # python-game
-snake game using python
+snake game using python for beginner
